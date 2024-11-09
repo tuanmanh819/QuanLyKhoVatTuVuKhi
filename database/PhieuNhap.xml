@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<database>
+    <PhieuNhap id="4">
+        <thoiGianPhat>2024-11-06T00:00:00+07:00</thoiGianPhat>
+        <thoiGianThu>2024-11-26T06:20:05.737+07:00</thoiGianThu>
+    </PhieuNhap>
+    <PhieuNhap id="5">
+        <thoiGianPhat>2024-11-01T00:00:00+07:00</thoiGianPhat>
+        <thoiGianThu>2024-11-29T07:45:53.699+07:00</thoiGianThu>
+    </PhieuNhap>
+</database>

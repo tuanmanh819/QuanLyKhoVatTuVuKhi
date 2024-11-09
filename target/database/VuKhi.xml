@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<database>
+    <VuKhi id="2">
+        <vuKhi>dfadfsf</vuKhi>
+        <giaThanh>8</giaThanh>
+        <thuVe>true</thuVe>
+        <phanLoai>3</phanLoai>
+        <phieuNhap>1</phieuNhap>
+    </VuKhi>
+</database>

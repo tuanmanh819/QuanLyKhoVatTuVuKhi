@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\_____\IdeaProjects\QLDT_DH\target\LuongVietHoang-1.0-SNAPSHOT.jar</jar>
+  <outfile>C:\Users\_____\IdeaProjects\QLDT_DH\target\a.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>app.App</mainClass>
+  </classPath>
+  <jre>
+    <path>C:\Program Files\OpenLogic\jre-22.0.2.9-hotspot</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion>21</minVersion>
+    <maxVersion>22</maxVersion>
+    <opt>--add-opens java.base/jdk.internal.reflect=ALL-UNNAMED</opt>
+    <opt>--add-opens java.base/java.lang=ALL-UNNAMED</opt>
+  </jre>
+</launch4jConfig>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<database>
+    <PhanLoai id="1">
+        <tenPhanLoai>test444</tenPhanLoai>
+    </PhanLoai>
+    <PhanLoai id="2">
+        <tenPhanLoai>e</tenPhanLoai>
+    </PhanLoai>
+    <PhanLoai id="3">
+        <tenPhanLoai>33</tenPhanLoai>
+    </PhanLoai>
+    <PhanLoai id="4">
+        <tenPhanLoai>55</tenPhanLoai>
+    </PhanLoai>
+</database>

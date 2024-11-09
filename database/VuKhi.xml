@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<database>
+    <VuKhi id="1">
+        <vuKhi>teee</vuKhi>
+        <giaThanh>5</giaThanh>
+        <thuVe>false</thuVe>
+        <phanLoai>2</phanLoai>
+        <phieuNhap>4</phieuNhap>
+    </VuKhi>
+    <VuKhi id="4">
+        <vuKhi>test3</vuKhi>
+        <giaThanh>13</giaThanh>
+        <thuVe>true</thuVe>
+        <phanLoai>4</phanLoai>
+        <phieuNhap>5</phieuNhap>
+    </VuKhi>
+    <VuKhi id="5">
+        <vuKhi>teststaa</vuKhi>
+        <giaThanh>1000</giaThanh>
+        <thuVe>true</thuVe>
+        <phanLoai>1</phanLoai>
+        <phieuNhap>4</phieuNhap>
+    </VuKhi>
+    <VuKhi id="6">
+        <vuKhi>adsfasfd</vuKhi>
+        <giaThanh>900000</giaThanh>
+        <thuVe>false</thuVe>
+        <phanLoai>3</phanLoai>
+        <phieuNhap>4</phieuNhap>
+    </VuKhi>
+</database>
